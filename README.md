@@ -24,10 +24,6 @@
   <img alt="Text to Emoji Usage GIF" src="https://user-images.githubusercontent.com/17814535/92997146-ac5a5000-f4d6-11ea-9eda-b411718e71eb.gif">
 </p>
 
-<p align="center">
-  A Discord.js selfbot for turning text into the regional indicator emojis.
-</p>
-
 ## Downloading
 
 In a command prompt in your projects folder (wherever that may be), run the following:
