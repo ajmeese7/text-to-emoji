@@ -1,0 +1,15 @@
+{
+  "name": "text-to-emoji",
+  "version": "1.0.0",
+  "description": "A Discord.js selfbot for turning text into the regional indicator emojis.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajmeese7/text-to-emoji"
+  },
+  "main": "index.js",
+  "author": "Aaron Meese",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
