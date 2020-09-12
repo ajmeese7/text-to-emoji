@@ -29,7 +29,7 @@ client.on("message", async message => {
     for (let i in chars)
       // Currently only supports letters
       if (chars[i].match(/[a-z]/i))
-        emojis += `:regional_indicator_${chars[i]}: `;
+        emojis += `:regional_indicator_${chars[i].toLowerCase()}: `;
 
     return emojis;
   }).join(' ').replace(/(\r\n|\n|\r)/gm,""); // Removes the line break between words
